@@ -25,7 +25,6 @@ PRODUCT_COPY_FILES += \
 
 ifeq ($(QCPATH),)
 PRODUCT_COPY_FILES += \
-
     vendor/tcl/q39/proprietary/app/qcrilmsgtunnel/qcrilmsgtunnel.apk:system/app/qcrilmsgtunnel/qcrilmsgtunnel.apk \
     vendor/tcl/q39/proprietary/app/shutdownlistener/shutdownlistener.apk:system/app/shutdownlistener/shutdownlistener.apk \
     vendor/tcl/q39/proprietary/app/TimeService/TimeService.apk:system/app/TimeService/TimeService.apk \
