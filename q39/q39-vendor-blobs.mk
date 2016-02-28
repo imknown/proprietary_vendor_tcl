@@ -112,7 +112,6 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/q39/proprietary/etc/sound_trigger_mixer_paths.xml:system/etc/sound_trigger_mixer_paths.xml \
     vendor/tcl/q39/proprietary/etc/sound_trigger_platform_info.xml:system/etc/sound_trigger_platform_info.xml \
     vendor/tcl/q39/proprietary/etc/spn-conf.xml:system/etc/spn-conf.xml \
-    vendor/tcl/q39/proprietary/etc/thermal-engine.conf:system/etc/thermal-engine.conf \
     vendor/tcl/q39/proprietary/etc/wfdconfigsink.xml:system/etc/wfdconfigsink.xml \
     vendor/tcl/q39/proprietary/etc/wfdconfig.xml:system/etc/wfdconfig.xml \
     vendor/tcl/q39/proprietary/etc/xtra_root_cert.pem:system/etc/xtra_root_cert.pem \
