@@ -116,7 +116,6 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/q39/proprietary/vendor/lib64/libchromatix_imx214_common.so:system/vendor/lib64/libchromatix_imx214_common.so \
     vendor/tcl/q39/proprietary/vendor/lib64/libactuator_ad5823.so:system/vendor/lib64/libactuator_ad5823.so \
     vendor/tcl/q39/proprietary/vendor/lib64/libCB.so:system/vendor/lib64/libCB.so \
-    vendor/tcl/q39/proprietary/vendor/lib64/libcalmodule_common.so:system/vendor/lib64/libcalmodule_common.so \
     vendor/tcl/q39/proprietary/vendor/lib64/libchromatix_s5k4h5_8916_hfr_120fps.so:system/vendor/lib64/libchromatix_s5k4h5_8916_hfr_120fps.so \
     vendor/tcl/q39/proprietary/vendor/lib64/libtime_genoff.so:system/vendor/lib64/libtime_genoff.so \
     vendor/tcl/q39/proprietary/vendor/lib64/librpmb.so:system/vendor/lib64/librpmb.so \
@@ -302,7 +301,6 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/q39/proprietary/vendor/lib/libactuator_iu074_camcorder.so:system/vendor/lib/libactuator_iu074_camcorder.so \
     vendor/tcl/q39/proprietary/vendor/lib/libactuator_ad5823.so:system/vendor/lib/libactuator_ad5823.so \
     vendor/tcl/q39/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
-    vendor/tcl/q39/proprietary/vendor/lib/libcalmodule_common.so:system/vendor/lib/libcalmodule_common.so \
     vendor/tcl/q39/proprietary/vendor/lib/libchromatix_ov5648_p5v18g_preview.so:system/vendor/lib/libchromatix_ov5648_p5v18g_preview.so \
     vendor/tcl/q39/proprietary/vendor/lib/libchromatix_s5k4h5_8916_hfr_120fps.so:system/vendor/lib/libchromatix_s5k4h5_8916_hfr_120fps.so \
     vendor/tcl/q39/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
@@ -582,7 +580,6 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/q39/proprietary/vendor/lib/libmmcamera_imx135.so:system/vendor/lib/libmmcamera_imx135.so \
     vendor/tcl/q39/proprietary/vendor/lib/libchromatix_s5k3m2_f13s01k_default_video.so:system/vendor/lib/libchromatix_s5k3m2_f13s01k_default_video.so \
     vendor/tcl/q39/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
-    vendor/tcl/q39/proprietary/vendor/lib/libcalmodule_akm.so:system/vendor/lib/libcalmodule_akm.so \
     vendor/tcl/q39/proprietary/vendor/lib/libchromatix_imx132_default_video.so:system/vendor/lib/libchromatix_imx132_default_video.so \
     vendor/tcl/q39/proprietary/vendor/lib/libchromatix_s5k3l1yx_hfr_120fps.so:system/vendor/lib/libchromatix_s5k3l1yx_hfr_120fps.so \
     vendor/tcl/q39/proprietary/vendor/lib/libchromatix_ov8858_q8v19w_hfr_120fps.so:system/vendor/lib/libchromatix_ov8858_q8v19w_hfr_120fps.so \
@@ -768,6 +765,7 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/q39/proprietary/etc/firmware/ice40.bin:system/etc/firmware/ice40.bin \
     vendor/tcl/q39/proprietary/etc/firmware/Signedrompatch_v30.bin:system/etc/firmware/Signedrompatch_v30.bin \
     vendor/tcl/q39/proprietary/etc/firmware/a330_pfp.fw:system/etc/firmware/a330_pfp.fw \
+    vendor/tcl/q39/proprietary/etc/thermal-engine.conf:system/etc/thermal-engine.conf \
     vendor/tcl/q39/proprietary/etc/permissions/android.hardware.camera.autofocus.xml:system/etc/permissions/android.hardware.camera.autofocus.xml \
     vendor/tcl/q39/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/tcl/q39/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
