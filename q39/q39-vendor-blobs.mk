@@ -765,7 +765,6 @@ PRODUCT_COPY_FILES += \
     vendor/tcl/q39/proprietary/etc/firmware/ice40.bin:system/etc/firmware/ice40.bin \
     vendor/tcl/q39/proprietary/etc/firmware/Signedrompatch_v30.bin:system/etc/firmware/Signedrompatch_v30.bin \
     vendor/tcl/q39/proprietary/etc/firmware/a330_pfp.fw:system/etc/firmware/a330_pfp.fw \
-    vendor/tcl/q39/proprietary/etc/thermal-engine.conf:system/etc/thermal-engine.conf \
     vendor/tcl/q39/proprietary/etc/permissions/android.hardware.camera.autofocus.xml:system/etc/permissions/android.hardware.camera.autofocus.xml \
     vendor/tcl/q39/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/tcl/q39/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
